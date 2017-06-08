@@ -4,4 +4,4 @@ Just a repository
 Hi, guys!
 
 Ryan here, just getting started to learn Python. 
-Heard that quite lots of jobs require a github account, so I came here to check it out.
+Knowing that quite a few jobs require a github account, so I came here to check it out.
